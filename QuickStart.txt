@@ -6,3 +6,4 @@ NODEJS
 ANGULAR JS
 D3
 ReactJS
+Angular 2
